@@ -1,5 +1,4 @@
-import { useCallback } from "react";
-import { PhotoAlbum, PhotoProps } from "react-photo-album";
+import { PhotoAlbum } from "react-photo-album";
 
 const Home = () => {
   const photo = [
